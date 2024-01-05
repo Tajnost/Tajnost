@@ -8,7 +8,7 @@ With 18 years of diverse professional experience, I've evolved from an administr
 
 ## 💼 Professional Experience
 
-- **Ethical Hacker @ Security Firm (2023 - Present)**:
+- **Ethical Hacker @ GO-LIX (2023 - Present)**:
   - 🌐 External and internal penetration testing
   - 🌐 Web and mobile application penetration testing
   - 🕵️‍♂️ Social engineering tests
@@ -21,6 +21,7 @@ With 18 years of diverse professional experience, I've evolved from an administr
 - **🌐 Web Application Security**: Web requests, proxies, information gathering, JavaScript deobfuscation, XSS, SQL injection, web service & API attacks, server-side attacks, and session security.
 - **🔍 Network Security**: Network enumeration with Nmap, Footprinting and vulnerability assessment, Shells, payloads, and common service attacks.
 - **💾 Database Management**: System upgrades, strategic database configurations, data protection, and administrative security practices.
+- **🚨 Cybersecurity incident response**
 - **📊 Administrative Skills**: Data protection in administrative operations, IT project leadership including system upgrades and strategic networking.
 
 ## 📚 Education
