@@ -1,4 +1,3 @@
-![Ethical Hacker](https://wallpx.com/image/2020/11/mario-pixel-nintendo-room-night-computer-video-game.jpg)
 <img src="https://wallpx.com/image/2020/11/mario-pixel-nintendo-room-night-computer-video-game.jpg" alt="Ethical Hacker" width="500" height="250"/>
 
 # 🛡️ Ethical Hacker / Penetration Tester
