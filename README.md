@@ -8,13 +8,18 @@ With 18 years of diverse professional experience, I've evolved from an administr
 
 ## 💼 Professional Experience
 
-- **Ethical Hacker @ GO-LIX (2023 - Present)**:
+- **Current Position: (2023 - Present)**:
   - 🌐 External and internal penetration testing
   - 🌐 Web and mobile application penetration testing
   - 🕵️‍♂️ Social engineering tests
   - 🛡️ Security awareness training
   - 🚨 Cybersecurity incident response
-
+ 
+- **Past Experience** ( 2005 - 2023 ): 
+  - 📊 Managed key administrative tasks and IT-related responsibilities
+  - 📊 Oversaw stringent data protection protocols and system upgrades
+  - 📊 Recognized for efficient liaison and communication
+  
 ## 💡 Skills & Proficiencies
 
 - **🔐 Penetration Testing**: Practical methodologies, web application security, advanced techniques including pivoting, tunneling, and port forwarding, Active Directory enumeration & attacks.
