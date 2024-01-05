@@ -8,7 +8,7 @@ With 18 years of diverse professional experience, I've evolved from an administr
 
 ## 💼 Professional Experience
 
-- **GO-LIX d.o.o (2023 - Present)**:
+- **Ethical Hacker @ Security Firm (2023 - Present)**:
   - 🌐 External and internal penetration testing
   - 🌐 Web and mobile application penetration testing
   - 🕵️‍♂️ Social engineering tests
