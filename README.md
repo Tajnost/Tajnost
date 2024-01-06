@@ -45,3 +45,36 @@ With 18 years of diverse professional experience, I've evolved from an administr
 ## 🚀 What's here?
 
 I created this page to stay more organized and have all my information available online whenever I need it. Here you will find insights into my skills, experiences, and certifications. Let's connect and explore how we can bolster cybersecurity together!
+
+What I did each year ?
+
+### **Year 2024**
+
+**🏆Certifications:🏆**
+
+
+**📚Books Read:📚**
+  - 📖**The Pragmatic Programmer, 20th Anniversary Edition** - by David Thomas, Andrew Hunt
+
+**👨‍🎓Courses/Modules Took:👨‍🎓**
+
+**💉Challenges Completed:💉**
+
+**💊Boxes Completed:💊**
+ 
+
+
+
+
+
+
+### **Year 2023**
+
+**🏆Certifications:🏆**
+  - 🎖️OSCP - 06.08.2023
+  - 🎖️eWPT - 14.08.2023
+  - 🎖️CBBH - 12.09.2023
+  - 🎖️CPTS - 30.10.2023
+
+
+
