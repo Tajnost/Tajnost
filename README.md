@@ -70,6 +70,21 @@ I created this page to stay more organized and have all my information available
       - Server-Side Request Forgery :white_check_mark:
       - Guacamole Lite Prototype Pollution :white_check_mark:
 
+# WEB-300: Advanced Web Attacks and Exploitation
+
+| Vulnerability | Status | Source |
+|---------------|--------|--------|
+| ATutor Authentication Bypass and RCE | ✅ | offsec.com |
+| ATutor LMS Type Juggling Vulnerability | ✅ | offsec.com |
+| ManageEngine Applications Manager AMUserResourcesSyncServlet SQL Injection RCE | ✅ | offsec.com |
+| Bassmaster NodeJS Arbitrary JavaScript Injection Vulnerability | ✅ | offsec.com |
+| DotNetNuke Cookie Deserialization RCE | ✅ | offsec.com |
+| ERPNext Authentication Bypass and Server Side Template Injection | ✅ | offsec.com |
+| openCRX Authentication Bypass and Remote Code Execution | ✅ | offsec.com |
+| openITCOCKPIT XSS and OS Command Injection - Blackbox | ✅ | offsec.com |
+| Concord Authentication Bypass to RCE | ✅ | offsec.com |
+| Server-Side Request Forgery | ✅ | offsec.com |
+| Guacamole Lite Prototype Pollution | ✅ | offsec.com |
 
 
 **💉Challenges Completed:💉**
