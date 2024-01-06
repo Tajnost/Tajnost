@@ -21,7 +21,7 @@ With 18 years of diverse professional experience, I've evolved from an administr
   - 📊 Recognized for efficient liaison and communication
   
 ## 💡 Skills & Proficiencies
-
+  
 - **🔐 Penetration Testing**: Practical methodologies, web application security, advanced techniques including pivoting, tunneling, and port forwarding, Active Directory enumeration & attacks.
 - **🌐 Web Application Security**: Web requests, proxies, information gathering, JavaScript deobfuscation, XSS, SQL injection, web service & API attacks, server-side attacks, and session security.
 - **🔍 Network Security**: Network enumeration with Nmap, Footprinting and vulnerability assessment, Shells, payloads, and common service attacks.
@@ -30,7 +30,7 @@ With 18 years of diverse professional experience, I've evolved from an administr
 - **📊 Administrative Skills**: Data protection in administrative operations, IT project leadership including system upgrades and strategic networking.
 
 ## 📚 Education
-
+  
 - **🖥️ Computer Science Engineer**
 
 ## 🎖️ Certifications
@@ -49,17 +49,17 @@ I created this page to stay more organized and have all my information available
 ### 🚀 What I did each year ?
 
 ## **Year 2024**
-
+  
 ### **🏆Certifications:🏆**
 
-
+  
 ### **📚Books Read:📚**
   - 📖**The Pragmatic Programmer, 20th Anniversary Edition** - by David Thomas, Andrew Hunt
-
+  
 ### **👨‍🎓Courses/Modules Took:👨‍🎓**
-
+  
 #### 🤍 WEB-300: Advanced Web Attacks and Exploitation
-
+  
 | Vulnerability | Status | Source |
 |---------------|--------|--------|
 | ATutor Authentication Bypass and RCE | ✅ | offsec.com |
@@ -76,17 +76,17 @@ I created this page to stay more organized and have all my information available
 
 
 ### **💉Challenges Completed:💉**
-
+  
 ### **💊Boxes Completed:💊**
- 
-
+   
+  
 
 
 
 
 
 ## **Year 2023**
-
+  
 ### **🏆Certifications:🏆**
   - 🎖️eJPT - 01.05.2023
   - 🎖️OSCP - 06.08.2023
