@@ -85,6 +85,7 @@ I created this page to stay more organized and have all my information available
 ### **Year 2023**
 
 **🏆Certifications:🏆**
+  - 🎖️eJPT - 01.05.2023
   - 🎖️OSCP - 06.08.2023
   - 🎖️eWPT - 14.08.2023
   - 🎖️CBBH - 12.09.2023
