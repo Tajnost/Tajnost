@@ -50,13 +50,13 @@ I created this page to stay more organized and have all my information available
 
 ## **Year 2024**
 
-###**🏆Certifications:🏆**
+### **🏆Certifications:🏆**
 
 
-###**📚Books Read:📚**
+### **📚Books Read:📚**
   - 📖**The Pragmatic Programmer, 20th Anniversary Edition** - by David Thomas, Andrew Hunt
 
-###**👨‍🎓Courses/Modules Took:👨‍🎓**
+### **👨‍🎓Courses/Modules Took:👨‍🎓**
 
 #### 🤍 WEB-300: Advanced Web Attacks and Exploitation
 
@@ -75,9 +75,9 @@ I created this page to stay more organized and have all my information available
 | Guacamole Lite Prototype Pollution | ✅ | offsec.com |
 
 
-###**💉Challenges Completed:💉**
+### **💉Challenges Completed:💉**
 
-###**💊Boxes Completed:💊**
+### **💊Boxes Completed:💊**
  
 
 
@@ -87,7 +87,7 @@ I created this page to stay more organized and have all my information available
 
 ## **Year 2023**
 
-###**🏆Certifications:🏆**
+### **🏆Certifications:🏆**
   - 🎖️eJPT - 01.05.2023
   - 🎖️OSCP - 06.08.2023
   - 🎖️eWPT - 14.08.2023
