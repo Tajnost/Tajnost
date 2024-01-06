@@ -8,7 +8,7 @@ With 18 years of diverse professional experience, I've evolved from an administr
 
 ## 💼 Professional Experience
 
-- **Current Position: (2023 - Present)**:
+- **Current Position: Ethical Hacker / Penetration Tester (2023 - Present)**:
   - 🌐 External and internal penetration testing
   - 🌐 Web and mobile application penetration testing
   - 🕵️‍♂️ Social engineering tests
