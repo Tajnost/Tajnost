@@ -57,6 +57,18 @@ What I did each year ?
   - 📖**The Pragmatic Programmer, 20th Anniversary Edition** - by David Thomas, Andrew Hunt
 
 **👨‍🎓Courses/Modules Took:👨‍🎓**
+  - 🤍 **WEB-300: Advanced Web Attacks and Exploitation**:
+          ATutor Authentication Bypass and RCE :white_check_mark:
+          ATutor LMS Type Juggling Vulnerability :white_check_mark:
+          ManageEngine Applications Manager AMUserResourcesSyncServlet SQL Injection RCE :white_check_mark:
+          Bassmaster NodeJS Arbitrary JavaScript Injection Vulnerability :white_check_mark:
+          DotNetNuke Cookie Deserialization RCE :white_check_mark:
+          ERPNext Authentication Bypass and Server Side Template Injection :white_check_mark:
+          openCRX Authentication Bypass and Remote Code Execution :white_check_mark:
+          openITCOCKPIT XSS and OS Command Injection - Blackbox :white_check_mark:
+          Concord Authentication Bypass to RCE :white_check_mark:
+          Server-Side Request Forgery :white_check_mark:
+          Guacamole Lite Prototype Pollution :white_check_mark:
 
 **💉Challenges Completed:💉**
 
