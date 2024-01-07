@@ -76,6 +76,7 @@ I created this page to stay more organized and have all my information available
 
 
 ### **💉Challenges Completed:💉**
+- 🙈 100 days of code - Started: 01.01.2024 - Finished : In Progress
   
 ### **💊Boxes Completed:💊**
    
