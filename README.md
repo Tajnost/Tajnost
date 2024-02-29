@@ -77,6 +77,9 @@ I created this page to stay more organized and have all my information available
 | Server-Side Request Forgery | ✅ | offsec.com |
 | Guacamole Lite Prototype Pollution | ✅ | offsec.com |
 
+#### 🤍 EC COUNCIL: Certified Ethical Hacker
+
+
 
 ### **💉Challenges Completed:💉**
 - 🙈 100 days of code - Started: 01.01.2024 - Finished : In Progress
