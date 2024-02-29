@@ -79,6 +79,10 @@ I created this page to stay more organized and have all my information available
 
 #### 🤍 EC COUNCIL: Certified Ethical Hacker
 
+| Course | Status | Source |
+|---------------|--------|--------|
+| Certified Ethical Hacker course| ✅ | eccouncil.com |
+
 
 
 ### **💉Challenges Completed:💉**
