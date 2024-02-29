@@ -40,6 +40,7 @@ With 18 years of diverse professional experience, I've evolved from an administr
 - Certified Penetration Testing Specialist (CPTS)
 - Certified Bug Bounty Hunter (CBBH)
 - eLearnSecurity Junior Penetration Tester (eJPT)
+- Certified Ethical Hacker (CEH)
 - HackTheBox ProLabs - Dante
 
 ## 🚀 What's here?
@@ -51,6 +52,8 @@ I created this page to stay more organized and have all my information available
 ## **Year 2024**
   
 ### **🏆Certifications:🏆**
+
+ - 🎖️CEH - 28.02.2024
 
   
 ### **📚Books Read:📚**
