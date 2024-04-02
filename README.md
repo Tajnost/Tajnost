@@ -36,6 +36,7 @@ With 18 years of diverse professional experience, I've evolved from an administr
 ## 🎖️ Certifications
 
 - Offensive Security Certified Professional (OSCP)
+- Offensive Security Web Expert (OSWE)
 - eLearnSecurity Web Application Pen Tester (eWPT)
 - Certified Penetration Testing Specialist (CPTS)
 - Certified Bug Bounty Hunter (CBBH)
@@ -54,6 +55,8 @@ I created this page to stay more organized and have all my information available
 ### **🏆Certifications:🏆**
 
  - 🎖️CEH - 28.02.2024
+ - 🎖️OSWE - 28.03.2024
+
 
   
 ### **📚Books Read:📚**
