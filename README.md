@@ -37,6 +37,8 @@ With 18 years of diverse professional experience, I've evolved from an administr
 
 - Offensive Security Certified Professional (OSCP)
 - Offensive Security Web Expert (OSWE)
+- Offensive Security Experienced Penetration Tester (OSEP)
+- Offensive Security Web Assessor (OSWA
 - eLearnSecurity Web Application Pen Tester (eWPT)
 - Certified Penetration Testing Specialist (CPTS)
 - Certified Bug Bounty Hunter (CBBH)
@@ -56,6 +58,8 @@ I created this page to stay more organized and have all my information available
 
  - 🎖️CEH - 28.02.2024
  - 🎖️OSWE - 28.03.2024
+ - 🎖️OSEP - 08.06.2024
+ - 🎖️OSWA - 02.07.2024
 
 
   
@@ -63,6 +67,10 @@ I created this page to stay more organized and have all my information available
   - 📖**The Pragmatic Programmer, 20th Anniversary Edition** - by David Thomas, Andrew Hunt
   
 ### **👨‍🎓Courses/Modules Took:👨‍🎓**
+
+#### 🤍 PEN-300: Evasion Techniques and Breaching Defenses
+![image](https://github.com/Tajnost/Tajnost/assets/155396761/a1287d96-8075-4253-9054-be8c0fdc0fcf)
+
   
 #### 🤍 WEB-300: Advanced Web Attacks and Exploitation
   
@@ -79,6 +87,10 @@ I created this page to stay more organized and have all my information available
 | Concord Authentication Bypass to RCE | ✅ | offsec.com |
 | Server-Side Request Forgery | ✅ | offsec.com |
 | Guacamole Lite Prototype Pollution | ✅ | offsec.com |
+
+#### 🤍 WEB-200: Web Attacks with Kali Linux
+![image](https://github.com/Tajnost/Tajnost/assets/155396761/e670b139-0096-4368-bad5-4222aca3cb77)
+
 
 #### 🤍 EC COUNCIL: Certified Ethical Hacker
 
