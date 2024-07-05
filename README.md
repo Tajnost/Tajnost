@@ -4,7 +4,7 @@
 
 ## 🌟 Summary
 
-With 18 years of diverse professional experience, I've evolved from an administrative role to specialize in cybersecurity, with an emphasis on penetration testing and ethical hacking. Holding certifications in OSEP, OSWE, OSWA, OSCP, CPTS, CBBH, and eWPT, CEH and eJPT, I merge my organizational insights with profound technical expertise. Passionate about bolstering cybersecurity defenses, I excel in conducting vulnerability assessments and strengthening digital infrastructure within collaborative team environments.
+With 18 years of diverse professional experience, I've evolved from an administrative role to specialize in cybersecurity, with an emphasis on penetration testing and ethical hacking. Holding certifications in OSEP, OSWE, OSWA, OSCP, CPTS, CBBH, eWPT, CEH and eJPT, I merge my organizational insights with profound technical expertise. Passionate about bolstering cybersecurity defenses, I excel in conducting vulnerability assessments and strengthening digital infrastructure within collaborative team environments.
 
 ## 💼 Professional Experience
 
