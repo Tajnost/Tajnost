@@ -4,7 +4,7 @@
 
 ## 🌟 Summary
 
-With 18 years of diverse professional experience, I've evolved from an administrative role to specialize in cybersecurity, with an emphasis on penetration testing and ethical hacking. Holding certifications in OSEP, OSWE, OSWA, OSCP, CPTS, CBBH, eWPT, CEH and eJPT, I merge my organizational insights with profound technical expertise. Passionate about bolstering cybersecurity defenses, I excel in conducting vulnerability assessments and strengthening digital infrastructure within collaborative team environments.
+With 18 years of diverse professional experience, I've evolved from an administrative role to specialize in cybersecurity, with an emphasis on penetration testing and ethical hacking. Holding certifications in OSEP, OSWE, OSWA, OSCP, OSPC+, CPTS, CBBH, eWPT, CEH and eJPT, I merge my organizational insights with profound technical expertise. Passionate about bolstering cybersecurity defenses, I excel in conducting vulnerability assessments and strengthening digital infrastructure within collaborative team environments.
 
 ## 💼 Professional Experience
 
@@ -14,6 +14,7 @@ With 18 years of diverse professional experience, I've evolved from an administr
   - 🕵️‍♂️ Social engineering tests
   - 🛡️ Security awareness training
   - 🚨 Cybersecurity incident response
+  - 📊 ISO27001 Internal Auditor
  
 - **Past Experience** ( 2005 - 2023 ): 
   - 📊 Managed key administrative tasks and IT-related responsibilities
@@ -28,6 +29,7 @@ With 18 years of diverse professional experience, I've evolved from an administr
 - **💾 Database Management**: System upgrades, strategic database configurations, data protection, and administrative security practices.
 - **🚨 Cybersecurity incident response**
 - **📊 Administrative Skills**: Data protection in administrative operations, IT project leadership including system upgrades and strategic networking.
+- **📊 ISO27001 Internal Auditor**
 
 ## 📚 Education
   
@@ -36,6 +38,8 @@ With 18 years of diverse professional experience, I've evolved from an administr
 ## 🎖️ Certifications
 
 - Offensive Security Certified Professional (OSCP)
+- Offensive Security Certified Professional (OSCP+)
+- ISO27001 Internal Auditor
 - Offensive Security Web Expert (OSWE)
 - Offensive Security Experienced Penetration Tester (OSEP)
 - Offensive Security Web Assessor (OSWA
@@ -52,6 +56,31 @@ I created this page to stay more organized and have all my information available
 
 ### 🚀 What I did each year ?
 
+## **Year 2025**
+  
+### **🏆Certifications:🏆**
+
+
+  
+### **📚Books Read:📚**
+
+  - 📖**Cybersecurity Tabletop Exercises** - by Robert Lelewski and John Hollenberger
+
+  - 📖**Expeditionary Force Book 1** - by Craig Alanson
+  - 📖**Expeditionary Force Book 2** - by Craig Alanson
+  - 📖**Expeditionary Force Book 3** - by Craig Alanson
+
+  
+### **👨‍🎓Courses/Modules Took:👨‍🎓**
+
+
+### **💉Challenges Completed:💉**
+
+  
+### **💊Boxes Completed:💊**
+
+
+
 ## **Year 2024**
   
 ### **🏆Certifications:🏆**
@@ -60,11 +89,14 @@ I created this page to stay more organized and have all my information available
  - 🎖️OSWE - 28.03.2024
  - 🎖️OSEP - 08.06.2024
  - 🎖️OSWA - 02.07.2024
+ - 🎖️OSCP+ - 14.11.2024
+ - 🎖️ISO27001 Internal Auditor - 19.12.2024
 
 
   
 ### **📚Books Read:📚**
   - 📖**The Pragmatic Programmer, 20th Anniversary Edition** - by David Thomas, Andrew Hunt
+  - 📖**Informacijska varnost: Etično hekanje** - by Sara Tomše, dr. Blaž Markelj
   
 ### **👨‍🎓Courses/Modules Took:👨‍🎓**
 
@@ -105,7 +137,6 @@ I created this page to stay more organized and have all my information available
   
 ### **💊Boxes Completed:💊**
    
-  
 
 
 
