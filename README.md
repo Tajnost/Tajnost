@@ -69,7 +69,13 @@ I created this page to stay more organized and have all my information available
   - 📖**Expeditionary Force Book 1** - by Craig Alanson
   - 📖**Expeditionary Force Book 2** - by Craig Alanson
   - 📖**Expeditionary Force Book 3** - by Craig Alanson
-
+  - 📖**Expeditionary Force Book 4** - by Craig Alanson
+  - 📖**Expeditionary Force Book 5** - by Craig Alanson
+  - 📖**Expeditionary Force Book 6** - by Craig Alanson  - 
+  - 📖**Expeditionary Force Book 7** - by Craig Alanson
+  - 📖**Expeditionary Force Book 8** - by Craig Alanson
+  - 📖**Expeditionary Force Book 9** - by Craig Alanson
+  - 📖**Expeditionary Force Book 10** - by Craig Alanson
   
 ### **👨‍🎓Courses/Modules Took:👨‍🎓**
 
