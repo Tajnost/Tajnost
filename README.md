@@ -65,7 +65,6 @@ I created this page to stay more organized and have all my information available
 ### **📚Books Read:📚**
 
   - 📖**Cybersecurity Tabletop Exercises** - by Robert Lelewski and John Hollenberger
-
   - 📖**Expeditionary Force Book 1** - by Craig Alanson
   - 📖**Expeditionary Force Book 2** - by Craig Alanson
   - 📖**Expeditionary Force Book 3** - by Craig Alanson
