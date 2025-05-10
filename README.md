@@ -1,4 +1,4 @@
-<img src="https://e1.pxfuel.com/desktop-wallpaper/177/513/desktop-wallpaper-mario-pixel-nintendo-room-night-computer-video-game-pixel-bedroom.jpg" alt="Ethical Hacker" width="1000" height="500"/>
+<img src="https://tse2.mm.bing.net/th/id/OIP.N28QkjZ0USW7kf9DptmpXwHaEK?cb=iwc1&rs=1&pid=ImgDetMain" alt="Ethical Hacker" width="1000" height="500"/>
 
 # 🛡️ Ethical Hacker / Penetration Tester
 
@@ -65,6 +65,12 @@ I created this page to stay more organized and have all my information available
   
 ### **🏆Certifications:🏆**
 
+ - 🎖️OSCE3 - 26.04.2025
+ - 🎖️OSED - 26.04.2025
+ - 🎖️CRTA - 08.04.2025
+ - 🎖️OSIR - 26.03.2025
+ - 🎖️OSDA - 09.03.2025
+
 
   
 ### **📚Books Read:📚**
@@ -80,12 +86,31 @@ I created this page to stay more organized and have all my information available
   - 📖**Expeditionary Force Book 8** - by Craig Alanson
   - 📖**Expeditionary Force Book 9** - by Craig Alanson
   - 📖**Expeditionary Force Book 10** - by Craig Alanson
+  - 📖**Expeditionary Force Book 11** - by Craig Alanson
+  - 📖**Expeditionary Force Book 12** - by Craig Alanson
+  - 📖**Expeditionary Force Book 13** - by Craig Alanson
+  - 📖**Expeditionary Force Book 14** - by Craig Alanson
+  - 📖**Expeditionary Force Book 15** - by Craig Alanson  - 
+  - 📖**Expeditionary Force Book 16** - by Craig Alanson
+  - 📖**Expeditionary Force Book 17** - by Craig Alanson
+  - 📖**Dungeon Crawler Carl** - by Matt Dinniman
+  - 📖**Carl's Doomsday Scenario** - by Matt Dinniman
+  - 📖**Expeditionary Force Book 18** - by Craig Alanson
+  - 📖**The Dungeon Anarchist's Cookbook** - by Matt Dinniman
+
   
-### **👨‍🎓Courses/Modules Took:👨‍🎓**
+### **👨‍🎓Courses/Modules Took::👨‍🎓**
+
+#### 🤍Offensive Security Exploit Developer (OSED)
+#### 🤍 OffSec Threat Hunter (OSTH)
+#### 🤍OffSec Incident Responder (OSIR)
+#### 🤍OffSec Defense Analyst (OSDA)
+#### 🤍Certified Red Team Analyst (CRTA)
 
 
-### **💉Challenges Completed:💉**
 
+### **💉Challenges:💉**
+- 🙈 Pwn College - Started 01.05.2025 - Completed: TBD
   
 ### **💊Boxes Completed:💊**
 
