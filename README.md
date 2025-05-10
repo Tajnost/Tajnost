@@ -37,12 +37,17 @@ With 18 years of diverse professional experience, I've evolved from an administr
 
 ## 🎖️ Certifications
 
+- OffSec Certified Expert 3 (OSCE3)
+- Offensive Security Exploit Developer (OSED)
+- OffSec Incident Responder (OSIR)
+- OffSec Defense Analyst (OSDA)
+- Certified Red Team Analyst (CRTA)
 - Offensive Security Certified Professional (OSCP)
 - Offensive Security Certified Professional (OSCP+)
 - ISO27001 Internal Auditor
 - Offensive Security Web Expert (OSWE)
 - Offensive Security Experienced Penetration Tester (OSEP)
-- Offensive Security Web Assessor (OSWA
+- Offensive Security Web Assessor (OSWA)
 - eLearnSecurity Web Application Pen Tester (eWPT)
 - Certified Penetration Testing Specialist (CPTS)
 - Certified Bug Bounty Hunter (CBBH)
