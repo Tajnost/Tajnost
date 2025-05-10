@@ -101,20 +101,20 @@ I created this page to stay more organized and have all my information available
   
 ### **👨‍🎓Courses/Modules Took::👨‍🎓**
 
-#### 🤍Offensive Security Exploit Developer (OSED)
-#### 🤍 OffSec Threat Hunter (OSTH)
-#### 🤍OffSec Incident Responder (OSIR)
-#### 🤍OffSec Defense Analyst (OSDA)
-#### 🤍Certified Red Team Analyst (CRTA)
+-  🤍Offensive Security Exploit Developer (OSED)
+-  🤍 OffSec Threat Hunter (OSTH)
+-  🤍OffSec Incident Responder (OSIR)
+-  🤍OffSec Defense Analyst (OSDA)
+-  🤍Certified Red Team Analyst (CRTA)
 
 
 
 ### **💉Challenges:💉**
 
 #### 🙈 Pwn College - Started 04.05.2025 - Completed: TBD
-##### 🙈 Getting Started - Completed 06.05.2025
-##### 🙈 Linux Luminarium - Completed 09.05.2025
-##### 🙈 Computing 101
+- 🙈 Getting Started - Completed 06.05.2025
+- 🙈 Linux Luminarium - Completed 09.05.2025
+- 🙈 Computing 101
   
 ### **💊Boxes Completed:💊**
 
